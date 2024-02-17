@@ -1,0 +1,2 @@
+DevNotes V1.00
+If u can see this, client is working well.
